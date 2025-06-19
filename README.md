@@ -7,7 +7,7 @@ Tripoli, Libya
 - Skills: HTML, CSS, JavaScript, PHP, MySQL, Excel, SQL, Python (basic)
 - Projects: Course Registration System, Sales Management App, DDoS Detection (ML)
 - Languages: Arabic, English 
-- Hobbies: Swimming, writing short stories
+
 
 [LinkedIn](https://www.linkedin.com/in/tasneem-adam-29387836a/)
 
