@@ -1,16 +1,13 @@
-## Hi there 👋
 
-<!--
-**tmsdmd/tmsdmd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Junior Web Developer & Data Analyst**  
+Tripoli, Libya
 
-Here are some ideas to get you started:
+- B.Sc. Computer Science, University of Tripoli
+- Skills: HTML, CSS, JavaScript, PHP, MySQL, Excel, SQL, Python (basic)
+- Projects: Course Registration System, Sales Management App, DDoS Detection (ML)
+- Languages: Arabic, English 
+- Hobbies: Swimming, writing short stories
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[LinkedIn](https://www.linkedin.com/in/tasneem-adam-29387836a/)
+
+_Open to web dev and data roles!_
