@@ -1,7 +1,6 @@
 # Hi, I'm Tasneem Adam
 
 **Junior Web Developer & Data Analyst**  
-Tripoli, Libya
 
 - B.Sc. Computer Science, University of Tripoli
 - Skills: HTML, CSS, JavaScript, PHP, MySQL, Excel, SQL, Python (basic)
