@@ -3,7 +3,7 @@
 **Junior Web Developer & Data Analyst**  
 
 - B.Sc. Computer Science, University of Tripoli
-- Skills: HTML, CSS, JavaScript, PHP, MySQL, Excel, SQL, Python (basic)
+- Skills: HTML, CSS, JavaScript, PHP, MySQL, Excel, SQL, Python 
 - Projects: Course Registration System, Sales Management App, DDoS Detection (ML)
 - Languages: Arabic, English 
 
