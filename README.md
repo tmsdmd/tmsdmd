@@ -1,12 +1,6 @@
 # Hi, I'm Tasneem Adam
 
-**Junior Web Developer & Data Analyst**  
-
-- B.Sc. Computer Science, University of Tripoli
-- Skills: HTML, CSS, JavaScript, PHP, MySQL, Excel, SQL, Python 
-- Projects: Course Registration System, Sales Management App, DDoS Detection (ML)
-- Languages: Arabic, English 
-
+Researcher with a computer science background, focused on practical and applied work.
 
 [LinkedIn](https://www.linkedin.com/in/tasneem-adam-29387836a/)
 
