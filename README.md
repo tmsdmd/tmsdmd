@@ -1,6 +1,6 @@
-# Hi, I'm Tasneem Adam
+building meaningful projects and learning continuously.>-->
 
-Researcher with a computer science background, focused on practical and applied work.
+
 
 [LinkedIn](https://www.linkedin.com/in/tasneem-adam-29387836a/)
 
