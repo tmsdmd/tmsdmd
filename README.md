@@ -3,12 +3,11 @@
 Building meaningful projects and learning continuously.  
 Researcher in educational technology | Web Development & Data Analysis  
 
----
 
-## Skills
-Web Development | Data Analysis | Educational Projects  
 
----
+
+
+
 
 ## Connect with Me
 🔗 [LinkedIn](https://www.linkedin.com/in/tasneem-adam-29387836a/)  
