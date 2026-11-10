@@ -1,7 +1,7 @@
 # Tasneem Adam
 
 Building meaningful projects and learning continuously.  
-Researcher in educational technology | Web Development & Data Analysis  
+
 
 
 
